@@ -1,0 +1,14 @@
+# private notes and AI files / private Notizen und KI-Dateien
+CLAUDE.md
+AGENTS.md
+.claude/
+*kontext*
+# system and build files
+__pycache__/
+.DS_Store
+*.bak
+# lock and temporary files of editors (contain user and computer names)
+.~lock.*
+~$*
+*~
+*.swp
