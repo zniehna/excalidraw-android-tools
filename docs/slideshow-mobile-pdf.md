@@ -4,7 +4,7 @@
 
 [Back to overview](../README.md)
 
-A modified version of the **Slideshow** script by Zsolt Viczian, created with AI assistance.
+A modified version of the **Slideshow** script by Zsolt Viczian.
 For presenting and all other functions, see the description of the original at the top of the script
 file. If you like Slideshow, support its author (link in the side panel).
 

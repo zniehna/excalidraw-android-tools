@@ -5,7 +5,7 @@
 [Zurück zur Übersicht](../README.de.md)
 
 Ohne Tastatur fehlt die Umschalttaste, die man beim Auswählen gedrückt hält. Dieses Skript blendet
-dafür eine Bildschirmtaste ein. Mit KI-Unterstützung erstellt.
+dafür eine Bildschirmtaste ein.
 
 ## Bedienung
 

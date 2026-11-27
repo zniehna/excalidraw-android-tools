@@ -5,7 +5,7 @@
 [Back to overview](../README.md)
 
 Without a keyboard there is no Shift key to hold while selecting. This script adds an on-screen key
-that does this. Created with AI assistance.
+that does this.
 
 ## Usage
 

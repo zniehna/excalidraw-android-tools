@@ -4,7 +4,7 @@
 
 [Zurück zur Übersicht](../README.de.md)
 
-Eine geänderte Fassung des Skripts **Slideshow** von Zsolt Viczian, mit KI-Unterstützung erstellt.
+Eine geänderte Fassung des Skripts **Slideshow** von Zsolt Viczian.
 Das Präsentieren und alle weiteren Funktionen erklärt die (englische) Beschreibung des Originals am
 Anfang der Skriptdatei. Wenn dir Slideshow gefällt, unterstütze den Autor (Link in der Seitenleiste).
 
