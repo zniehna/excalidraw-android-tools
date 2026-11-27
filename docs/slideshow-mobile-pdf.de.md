@@ -36,8 +36,8 @@ Anfang der Skriptdatei. Wenn dir Slideshow gefällt, unterstütze den Autor (Lin
 
 ## Teststand
 
-Getestet auf einem Samsung Galaxy Tab S9 Ultra (Android 16, Obsidian 1.15.0, Excalidraw-Plugin
-2.29.2): Das Skript funktioniert, und sein Icon wird richtig angezeigt. PDF-Export, Scrollen im
+Getestet auf einem Samsung Galaxy Tab S9 Ultra (Android 16, Obsidian 1.15.1, Excalidraw-Plugin
+2.29.4): Das Skript funktioniert, und sein Icon wird richtig angezeigt. PDF-Export, Scrollen im
 Druckdialog und die Symbole der Seitenleiste wurden einzeln bestätigt.
 
 **Nicht getestet:** Hochformat und Verschieben des Dialogs nach der Korrektur, Handout- und

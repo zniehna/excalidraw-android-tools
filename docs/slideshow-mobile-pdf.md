@@ -33,7 +33,7 @@ file. If you like Slideshow, support its author (link in the side panel).
 
 ## Test status
 
-Tested on a Samsung Galaxy Tab S9 Ultra (Android 16, Obsidian 1.15.0, Excalidraw plugin 2.29.2):
+Tested on a Samsung Galaxy Tab S9 Ultra (Android 16, Obsidian 1.15.1, Excalidraw plugin 2.29.4):
 the script works and its icon is displayed correctly. PDF export, scrolling in the print dialog and
 the side panel icons were confirmed individually.
 
